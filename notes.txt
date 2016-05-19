@@ -1,0 +1,33 @@
+F5Sports - App (iOS, Android, Windows*)
+F5Sports.com or SportsRoad.com - Website
+
+Modules: Tennis, Volleyball, Bowling
+Authentication: FaceBook, Google
+
+Cloud: Azure, SQL DB
+
+Game-Wise Roles: Guest | Participants | Moderators
+* Guest: can view any game scores | any year
+* Participant: Guest + Add/Edit Scores for the current year games
+* Moderator: Participant + Approvals for the current year games
+
+
+Year-wise: Sports, Scores. [Current Year | Previous Years]
+
+* Schedule of EACH GAME
+* Participants can send scores to moderators
+* Moderators - Approve and it will be published
+* Register via App/Site
+
+Guests:
+* Can view any game details (current year & previous years)
+
+Participants:
+* Can view any game details (current year & previous years)
+* Post scores for the current year participating games
+
+Moderators:
+* Add each game for the year
+* Add participants for each game
+* Add/Edit Scores for each participant
+* Approve scores submitted by participants
